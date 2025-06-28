@@ -1,0 +1,276 @@
+
+[
+  {
+    "id": 1,
+    "name": "Fresh Organic Milk",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?w=400&h=400&fit=crop",
+    "standardPrice": 3.99,
+    "description": "Premium organic whole milk from local farms. Rich in calcium and vitamins.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 2.99,
+    "daysToExpiry": 2,
+    "expiryDate": "2025-06-30"
+  },
+  {
+    "id": 2,
+    "name": "Artisan Sourdough Bread",
+    "category": "Bakery",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=400&fit=crop",
+    "standardPrice": 4.49,
+    "description": "Handcrafted sourdough bread with a perfect crust and soft interior.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 2.99,
+    "daysToExpiry": 1,
+    "expiryDate": "2025-06-29"
+  },
+  {
+    "id": 3,
+    "name": "Greek Yogurt",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1571212515416-6a8d52c7d29d?w=400&h=400&fit=crop",
+    "standardPrice": 5.99,
+    "description": "Creamy Greek yogurt packed with protein and probiotics.",
+    "hasNearExpiry": false
+  },
+  {
+    "id": 4,
+    "name": "Fresh Bananas",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&h=400&fit=crop",
+    "standardPrice": 2.99,
+    "description": "Sweet and ripe bananas, perfect for snacks or smoothies.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 1.99,
+    "daysToExpiry": 3,
+    "expiryDate": "2025-07-01"
+  },
+  {
+    "id": 5,
+    "name": "Cheddar Cheese Block",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=400&h=400&fit=crop",
+    "standardPrice": 6.99,
+    "description": "Aged cheddar cheese with a sharp, rich flavor.",
+    "hasNearExpiry": false
+  },
+  {
+    "id": 6,
+    "name": "Whole Wheat Bagels",
+    "category": "Bakery",
+    "image": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=400&h=400&fit=crop",
+    "standardPrice": 3.99,
+    "description": "Fresh whole wheat bagels, perfect for breakfast or lunch.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 2.49,
+    "daysToExpiry": 2,
+    "expiryDate": "2025-06-30"
+  },
+  {
+    "id": 7,
+    "name": "Organic Apples",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=400&h=400&fit=crop",
+    "standardPrice": 4.99,
+    "description": "Crisp organic apples, locally grown and pesticide-free.",
+    "hasNearExpiry": false
+  },
+  {
+    "id": 8,
+    "name": "Orange Juice",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=400&h=400&fit=crop",
+    "standardPrice": 3.49,
+    "description": "Fresh squeezed orange juice with no added sugars.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 2.29,
+    "daysToExpiry": 4,
+    "expiryDate": "2025-07-02"
+  },
+  {
+    "id": 9,
+    "name": "Blueberry Muffins",
+    "category": "Bakery",
+    "image": "https://images.unsplash.com/photo-1607958996333-41aef7caefaa?w=400&h=400&fit=crop",
+    "standardPrice": 5.99,
+    "description": "Freshly baked blueberry muffins with real blueberries.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 3.99,
+    "daysToExpiry": 1,
+    "expiryDate": "2025-06-29"
+  },
+  {
+    "id": 10,
+    "name": "Baby Spinach",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=400&fit=crop",
+    "standardPrice": 2.99,
+    "description": "Fresh baby spinach leaves, perfect for salads and cooking.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 1.99,
+    "daysToExpiry": 2,
+    "expiryDate": "2025-06-30"
+  },
+  {
+    "id": 11,
+    "name": "Butter",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=400&h=400&fit=crop",
+    "standardPrice": 4.29,
+    "description": "Premium salted butter made from cream.",
+    "hasNearExpiry": false
+  },
+  {
+    "id": 12,
+    "name": "Granola Cereal",
+    "category": "Packaged Foods",
+    "image": "https://images.unsplash.com/photo-1517451330947-7809dead78d5?w=400&h=400&fit=crop",
+    "standardPrice": 6.49,
+    "description": "Crunchy granola cereal with nuts and dried fruits.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 4.49,
+    "daysToExpiry": 5,
+    "expiryDate": "2025-07-03"
+  },
+  {
+    "id": 13,
+    "name": "Roma Tomatoes",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1546470427-e212b9d40cea?w=400&h=400&fit=crop",
+    "standardPrice": 3.99,
+    "description": "Fresh Roma tomatoes, perfect for cooking and salads.",
+    "hasNearExpiry": false
+  },
+  {
+    "id": 14,
+    "name": "Chicken Breast",
+    "category": "Meat & Poultry",
+    "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=400&h=400&fit=crop",
+    "standardPrice": 8.99,
+    "description": "Fresh boneless chicken breast, perfect for grilling.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 6.99,
+    "daysToExpiry": 1,
+    "expiryDate": "2025-06-29"
+  },
+  {
+    "id": 15,
+    "name": "Mixed Berry Smoothie",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=400&h=400&fit=crop",
+    "standardPrice": 4.99,
+    "description": "Refreshing mixed berry smoothie with natural ingredients.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 2.99,
+    "daysToExpiry": 2,
+    "expiryDate": "2025-06-30"
+  },
+  {
+    "id": 16,
+    "name": "Croissants",
+    "category": "Bakery",
+    "image": "https://images.unsplash.com/photo-1555507036-ab794f0ec0ea?w=400&h=400&fit=crop",
+    "standardPrice": 4.99,
+    "description": "Buttery, flaky croissants baked fresh daily.",
+    "hasNearExpiry": false
+  },
+  {
+    "id": 17,
+    "name": "Potato Chips",
+    "category": "Packaged Foods",
+    "image": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=400&h=400&fit=crop",
+    "standardPrice": 3.49,
+    "description": "Crispy potato chips with sea salt.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 2.19,
+    "daysToExpiry": 7,
+    "expiryDate": "2025-07-05"
+  },
+  {
+    "id": 18,
+    "name": "Bell Peppers",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1525607551862-4d178d18c04c?w=400&h=400&fit=crop",
+    "standardPrice": 2.99,
+    "description": "Colorful bell peppers, sweet and crunchy.",
+    "hasNearExpiry": false
+  },
+  {
+    "id": 19,
+    "name": "Vanilla Ice Cream",
+    "category": "Frozen Foods",
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&h=400&fit=crop",
+    "standardPrice": 5.99,
+    "description": "Premium vanilla ice cream made with real vanilla beans.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 3.99,
+    "daysToExpiry": 3,
+    "expiryDate": "2025-07-01"
+  },
+  {
+    "id": 20,
+    "name": "Salmon Fillet",
+    "category": "Seafood",
+    "image": "https://images.unsplash.com/photo-1574781330855-d0db3cc93e64?w=400&h=400&fit=crop",
+    "standardPrice": 12.99,
+    "description": "Fresh Atlantic salmon fillet, rich in omega-3.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 8.99,
+    "daysToExpiry": 1,
+    "expiryDate": "2025-06-29"
+  },
+  {
+    "id": 21,
+    "name": "Pasta Sauce",
+    "category": "Packaged Foods",
+    "image": "https://images.unsplash.com/photo-1551782450-17144efb9c50?w=400&h=400&fit=crop",
+    "standardPrice": 2.99,
+    "description": "Traditional marinara pasta sauce with herbs.",
+    "hasNearExpiry": false
+  },
+  {
+    "id": 22,
+    "name": "Avocados",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=400&h=400&fit=crop",
+    "standardPrice": 1.99,
+    "description": "Ripe avocados, perfect for guacamole or toast.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 1.49,
+    "daysToExpiry": 2,
+    "expiryDate": "2025-06-30"
+  },
+  {
+    "id": 23,
+    "name": "Whole Grain Bread",
+    "category": "Bakery",
+    "image": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=400&h=400&fit=crop",
+    "standardPrice": 3.99,
+    "description": "Nutritious whole grain bread with seeds and nuts.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 2.49,
+    "daysToExpiry": 3,
+    "expiryDate": "2025-07-01"
+  },
+  {
+    "id": 24,
+    "name": "Energy Bars",
+    "category": "Packaged Foods",
+    "image": "https://images.unsplash.com/photo-1506459225024-1428097a7e18?w=400&h=400&fit=crop",
+    "standardPrice": 4.99,
+    "description": "Nutritious energy bars with nuts and dried fruits.",
+    "hasNearExpiry": false
+  },
+  {
+    "id": 25,
+    "name": "Cottage Cheese",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=400&h=400&fit=crop",
+    "standardPrice": 3.99,
+    "description": "Low-fat cottage cheese, high in protein.",
+    "hasNearExpiry": true,
+    "nearExpiryPrice": 2.99,
+    "daysToExpiry": 4,
+    "expiryDate": "2025-07-02"
+  }
+]
