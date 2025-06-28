@@ -1,6 +1,6 @@
 # 🛒 Grocery Dynamic Pricing Website
 
-🔗 **Live Link:** [https://your-project-link.vercel.app/](https://your-project-link.vercel.app/)
+🔗 **Live Link:** [https://ecommerce-seven-kappa-37.vercel.app//](https://ecommerce-seven-kappa-37.vercel.app/)
 
 ![Website Screenshot](docs/image1.png)
 ![Website Screenshot](docs/image2.png)
