@@ -2,8 +2,8 @@
 
 🔗 **Live Link:** [https://your-project-link.vercel.app/](https://your-project-link.vercel.app/)
 
-![Website Screenshot](image1.png)
-![Website Screenshot](image2.png)
+![Website Screenshot](docs/image1.png)
+![Website Screenshot](docs/image2.png)
 
 ---
 
